@@ -1,0 +1,344 @@
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\appsettings.Development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\appsettings.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.exe
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.deps.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.runtimeconfig.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.AssemblyReference.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfoInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.CoreCompileInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.FileStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\scopedcss\bundle\FileStore.styles.css
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.CopyComplete
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\refint\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.genruntimeconfig.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore\FileStore\obj\Debug\net7.0\ref\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\appsettings.Development.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\appsettings.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.exe
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.deps.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.runtimeconfig.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\FileStore.pdb
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.AssemblyReference.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfoInputs.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfo.cs
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.CoreCompileInputs.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cs
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.FileStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\scopedcss\bundle\FileStore.styles.css
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.csproj.CopyComplete
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\refint\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.pdb
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\FileStore.genruntimeconfig.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\obj\Debug\net7.0\ref\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Azure.Core.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Azure.Identity.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Humanizer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.CodeDom.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.Development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.exe
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.deps.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.runtimeconfig.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Core.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Humanizer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.AssemblyReference.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfoInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CoreCompileInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.FileStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\scopedcss\bundle\FileStore.styles.css
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CopyComplete
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\refint\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.genruntimeconfig.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore\obj\Debug\net7.0\ref\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.AssemblyReference.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfoInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CoreCompileInputs.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cs
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\refint\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.Development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.exe
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.deps.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.runtimeconfig.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.pdb
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Core.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Humanizer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.FileStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileStore.props
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\scopedcss\bundle\FileStore.styles.css
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CopyComplete
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.genruntimeconfig.cache
+C:\SON\chuadulieu\HocTap\web\dotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\ref\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.AssemblyReference.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfoInputs.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.AssemblyInfo.cs
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CoreCompileInputs.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cs
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.MvcApplicationPartsAssemblyInfo.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\refint\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.pdb
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.Development.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\appsettings.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.exe
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.deps.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.runtimeconfig.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\FileStore.pdb
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Core.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Azure.Identity.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Humanizer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.CodeDom.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.FileStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileStore.props
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\scopedcss\bundle\FileStore.styles.css
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.csproj.CopyComplete
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\FileStore.genruntimeconfig.cache
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\obj\Debug\net7.0\ref\FileStore.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Scrutor.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\DULIEUHOCTAP\đuanotnet\FileStore (1)\FileStore (1)\FileStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
