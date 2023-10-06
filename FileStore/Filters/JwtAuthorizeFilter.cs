@@ -48,8 +48,8 @@ namespace FileStore.Filters
                     context.Result = new UnauthorizedResult();
                     return;
                 }
-                var userId = int.Parse(jwtToken.Claims.First().Value);
-                context.HttpContext.Items["Id"] = userId;
+                //var userId = int.Parse(jwtToken.Claims.First().Value);
+                //context.HttpContext.Items["Id"] = userId;
             }
             catch (Exception)
             {
